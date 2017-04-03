@@ -11,7 +11,7 @@ public class GameWin {
         System.out.println("Hi! I chose a number from 0 to 10 for you! Try to guess");
         System.out.println("You have");
         Scanner sc = new Scanner(System.in);
-        String inpu
+        //String inpu
 
     }
 }
