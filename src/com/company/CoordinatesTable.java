@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class CoordinatesTable {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
-        System.out.println("Hi! Please, enter the number");
+        System.out.println("Hi! Please, enter the 'dimension' number");
         String input = sc.nextLine();
         int n = Integer.parseInt(input);
         String coordinate = null;
